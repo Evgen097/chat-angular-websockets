@@ -1,0 +1,19 @@
+
+chat on angular and express (nodejs)
+
+run: npm install
+run: node wsserver.js
+
+open: localhost: 8080
+
+
+
+
+
+
+
+
+
+
+
+
